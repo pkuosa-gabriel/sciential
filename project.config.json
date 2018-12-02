@@ -1,0 +1,13 @@
+{
+  "description": "A WePY project",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wx64a40ff725dcd3d4",
+  "projectname": "poem-pearls",
+  "miniprogramRoot": "./dist"
+}
